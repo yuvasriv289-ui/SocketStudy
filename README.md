@@ -84,8 +84,7 @@ print("Server says:", data)
 client_socket.close()
 ```
 ## output
-<img width="1314" height="131" alt="server" src="https://github.com/user-attachments/assets/c549498f-9661-4ed8-bb26-17a17c6c88d4" />
-
+<img width="1130" height="104" alt="server" src="https://github.com/user-attachments/assets/c9aa5696-d75f-410c-ae85-dcff5eb2d576" />
 
 <img width="1278" height="118" alt="client" src="https://github.com/user-attachments/assets/ea7cdac6-99f7-4ec2-aee7-8855050046c4" />
 
